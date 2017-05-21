@@ -1,0 +1,5 @@
+c:\users\didon\onedrive\documents\visual studio 2015\Projects\DynamoNodes\bin\Debug\DynamoNodes.dll
+c:\users\didon\onedrive\documents\visual studio 2015\Projects\DynamoNodes\bin\Debug\DynamoNodes.pdb
+c:\users\didon\onedrive\documents\visual studio 2015\Projects\DynamoNodes\obj\Debug\DynamoNodes.csprojResolveAssemblyReference.cache
+c:\users\didon\onedrive\documents\visual studio 2015\Projects\DynamoNodes\obj\Debug\DynamoNodes.dll
+c:\users\didon\onedrive\documents\visual studio 2015\Projects\DynamoNodes\obj\Debug\DynamoNodes.pdb
